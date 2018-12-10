@@ -1,0 +1,25 @@
+{
+  "name": "file_upload",
+  "description": "file_upload",
+  "version": "0.1.0",
+  "main": "server",
+  "engines": {
+    "node": ">=7.7.4"
+  },
+  "dependencies": {
+    "async": "^2.5.0",
+    "body-parser": "^1.17.2",
+    "connect-multiparty": "^2.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.15.3",
+    "formidable": "^1.2.1",
+    "mocha": "~2.3.3",
+    "multer": "1.1.0",
+    "should": "~7.1.0",
+    "supertest": "~1.1.0"
+  },
+  "author": {
+    "name": "saikiranrallabandi",
+    "email": "s_rallabandi@apple.com"
+  }
+}

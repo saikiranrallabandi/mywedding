@@ -1,0 +1,100 @@
+/**********************************/
+/* 
+	COLOR-1.CSS
+	#d0e1ff (Yellow);
+ */
+/**********************************/
+
+.heart-animation.one i{
+	color: #d0e1ff;
+}
+.heart-animation.two i{
+	color: #93ceff;
+}
+.heart-animation.three i{
+	color: #0075d5;
+}
+.heart-animation.four i{
+	color: #003562;
+}
+.all-title span{
+	color: #d0e1ff;
+}
+.countDays:after{
+	color: #d0e1ff;
+}
+.countHours:after{
+	color: #d0e1ff;
+}
+.countMinutes:after{
+	color: #d0e1ff;
+}
+.countSeconds:after{
+	color: #d0e1ff;
+}
+span.swirl-right span{
+	color: #d0e1ff;
+}
+.title-under {
+	color: #d0e1ff;
+}
+.btn.btn-border-white:hover, .btn.btn-border-white:active, .btn.btn-border-white:focus, a.btn.btn-border-white:hover, a.btn.btn-border-white:active, a.btn.btn-border-white:focus {
+	background-color: #d0e1ff;
+	border: 1px solid #d0e1ff;
+}
+.single-happy .info-box-text ul li a i:hover{
+	background-color: #003562;
+}
+.single-happy-wrapp .single-happy-and{
+	color: #d0e1ff;
+}
+.section-gallery .fade-icon .icon {
+	background-color: #003562;
+}
+.switcher__color span a {
+    background: #003562;
+}
+.story-date {
+    background: #d0e1ff;
+}
+.single-happy .info-box-text ul li a .icon{
+	background: #d0e1ff;
+}
+.story-line:after {
+    background: #d0e1ff;
+}
+.story-line:before {
+    background: #d0e1ff;
+}
+.story-line {
+    background: #d0e1ff;
+}
+.story-section .date:before {
+    background: #d0e1ff;
+}
+.story-section .offer:before {
+    background: #d0e1ff;
+}
+.story-section .time:before {
+    background: #d0e1ff;
+}
+.story-section .together:before {
+    background: #d0e1ff;
+}
+.donation-item{
+	background: #003562;
+}
+.location .color-two {
+    background: #003562;
+}
+.footer{
+	background: #003562;
+}
+
+/**********************************/
+/* 
+	END
+	COLOR-1.CSS
+	#d0e1ff (Yellow);
+ */
+/**********************************/
