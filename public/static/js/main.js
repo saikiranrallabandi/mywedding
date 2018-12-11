@@ -20,7 +20,7 @@ $(document).ready(function() {
 $(window).on('load', function() {
     "use strict";
     $('.status').fadeOut();
-    $('#preloader').delay(350).fadeOut('slow');
+    $('#preloader').delay(50).fadeOut('slow');
 });
 /* END Preloader js */
 
